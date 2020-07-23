@@ -1,0 +1,1 @@
+#Check climate of different cities
